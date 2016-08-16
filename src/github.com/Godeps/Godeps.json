@@ -1,0 +1,9 @@
+{
+	"ImportPath": "github.com",
+	"GoVersion": "go1.5",
+	"GodepVersion": "v62",
+	"Packages": [
+		"github.com/chenzhongtao/cephclient/"
+	],
+	"Deps": []
+}

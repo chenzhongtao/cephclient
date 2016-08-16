@@ -1,0 +1,19 @@
+{
+	"ImportPath": "main",
+	"GoVersion": "go1.5",
+	"GodepVersion": "v62",
+	"Deps": [
+		{
+			"ImportPath": "github.com/ceph/go-ceph/rados",
+			"Rev": "29d1ad93949154aed50f2c584830f85d061fe29f"
+		},
+		{
+			"ImportPath": "github.com/ceph/go-ceph/rbd",
+			"Rev": "29d1ad93949154aed50f2c584830f85d061fe29f"
+		},
+		{
+			"ImportPath": "github.com/chenzhongtao/cephclient/cephclient",
+			"Rev": "2d2dbf59fc1a1fd2336a25fbc5ebb7600d41fd97"
+		}
+	]
+}
